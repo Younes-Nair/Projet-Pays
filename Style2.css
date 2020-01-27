@@ -1,0 +1,64 @@
+.Titre {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.Maroc { 
+    text-align: center;
+}
+
+.bhm {
+    text-align: center;
+    background-color: crimson; 
+    width: 10%;
+    color: white;
+}
+
+.Bahamas {
+    text-align: center;
+}
+
+.Philippines {
+    text-align: center;
+}
+
+.mrc { 
+    text-align: center;
+    background-color: crimson;
+    width: 8%;
+    color: white;
+}
+
+.phl {
+    text-align: center;
+    background-color: crimson;
+    width: 12%;
+    color: white;
+}
+
+
+.bouton li{
+    background-color: red;
+    text-align: center;
+    margin: 15px;
+    display: inline;
+    list-style-type: none;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.div1 {
+    background-color: orangered;
+}
+
+.div2 {
+    background-color: orangered;
+
+}
+
+.div3 {
+    background-color: orangered;
+}
